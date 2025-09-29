@@ -18,7 +18,7 @@ Side projects, data science experiments, optimization models, and occasional cod
 
 ✨ Thanks for stopping by — let’s collaborate, learn, and build something impactful together!
 
-### 📌 [Customer Churn Survival Analysis](./customer-churn-survival-analysis)
+### 📌 [Customer Churn Survival Analysis](https://github.com/PeishengHong/customer-churn-survival-analysis)
 - **Techniques:** Kaplan-Meier Estimator, Cox Proportional Hazards, Survival Curves  
 - **Goal:** Model customer churn behavior in the telecom industry using survival analysis.  
 - **Business Impact:** Helps identify at-risk customers early and design effective retention strategies.  
@@ -53,7 +53,7 @@ Side projects, data science experiments, optimization models, and occasional cod
 
 ---
 
-### 📌 [GAMS Production Planning (MIP)](./gams-production-planning)
+### 📌 [Production Planning (Mixed-Integer Programming)](./gams-production-planning)
 - **Techniques:** Mixed-Integer Programming (MIP), GAMS modeling, optimization algorithms  
 - **Goal:** Develop a production planning model to optimize scheduling, resources, and costs.  
 - **Business Impact:** Supports strategic decision-making in manufacturing, increasing efficiency and profitability.  
