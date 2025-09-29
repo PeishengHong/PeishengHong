@@ -18,7 +18,7 @@ Side projects, data science experiments, optimization models, and occasional cod
 
 ✨ Thanks for stopping by — let’s collaborate, learn, and build something impactful together!
 
-### 📌 [Customer Churn Survival Analysis](https://github.com/PeishengHong/customer-churn-survival-analysis)
+#### 📌 [Customer Churn Survival Analysis](https://github.com/PeishengHong/customer-churn-survival-analysis/blob/main/churn_survival_analysis.ipynb)
 - **Techniques:** Kaplan-Meier Estimator, Cox Proportional Hazards, Survival Curves  
 - **Goal:** Model customer churn behavior in the telecom industry using survival analysis.  
 - **Business Impact:** Helps identify at-risk customers early and design effective retention strategies.  
