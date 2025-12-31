@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm Peisheng Hong  
 
-Welcome to my GitHub! I’m a Data Analyst at The Home Depot with 5+ years of experience turning complex data into actionable insights. I specialize in **data analytics, data visualization, machine learning, and optimization**, driving end-to-end solutions that deliver measurable impact.  
+Welcome to my GitHub! I’m a Data Analyst at The Home Depot with 6+ years of experience turning complex data into actionable insights. I specialize in **data analytics, data visualization, machine learning, and optimization**, driving end-to-end solutions that deliver measurable impact.  
 
 ---
 
